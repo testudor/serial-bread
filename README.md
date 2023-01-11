@@ -7,3 +7,4 @@ It's a basic USB-to-UART adapter with a robust USB-C connector and switchable lo
 
 | ![Alt text](./images/front.png) | ![Alt text](./images/back.png) |
 |:---:|:---:|
+|Top|Bottom|
