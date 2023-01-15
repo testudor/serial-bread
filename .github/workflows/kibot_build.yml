@@ -27,5 +27,5 @@ jobs:
         with:
           config: config.kibot.yaml
           dir: output
-          schema: "Banana Bread.kicad_sch"
-          board: "Banana Bread.kicad_pcb"
+          schema: "Serial Bread.kicad_sch"
+          board: "Serial Bread.kicad_pcb"
