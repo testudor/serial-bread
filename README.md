@@ -1,5 +1,7 @@
 # Serial Bread
 
+![kicad workflow](https://github.com/testudor/serial-bread/actions/workflows/kibot_build.yml/badge.svg)
+
 This is part of the "Modular Breadboard" parent project. 
 
 It's a basic USB-to-UART adapter with a robust USB-C connector and switchable logic levels. It can also provide up to 3A@5v and 600mA@3<area>.3V for your project.
